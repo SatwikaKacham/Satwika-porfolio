@@ -5,3 +5,7 @@
 1.taught by tanay pratap.
 1.i am learning something cool.
 1.i love to do this.
+hobbies:
+1. web development
+1. drawing
+2. chilling
